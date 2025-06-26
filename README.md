@@ -1,4 +1,4 @@
 <header>ALURAFLIX</header>
 
-Fé para o Impossível | Completo
+<h1<Fé para o Impossível | Completo>/h1>
 #fé-para-impossivel

@@ -33,9 +33,6 @@ p {
 }
 
 
-img {
-  height: 200px;
-}
 
 .categoria-videos {
   display: flex;
@@ -50,4 +47,5 @@ img {
 
 .categoria-videos img {
    opacity: 0.5;
+    height: 200px;
 }

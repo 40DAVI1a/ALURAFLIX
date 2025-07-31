@@ -12,7 +12,7 @@ header {
 
 }
 
+}
 section {
-    display: block;
-    unicode-bidi: isolate;
+    background: rgb(184, 156, 213);
 }
